@@ -1,0 +1,15 @@
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\bin\Debug\net6.0\oop_advemture.exe
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\bin\Debug\net6.0\oop_advemture.deps.json
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\bin\Debug\net6.0\oop_advemture.runtimeconfig.json
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\bin\Debug\net6.0\oop_advemture.dll
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\bin\Debug\net6.0\oop_advemture.pdb
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.csproj.AssemblyReference.cache
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.AssemblyInfoInputs.cache
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.AssemblyInfo.cs
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.csproj.CoreCompileInputs.cache
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.dll
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\refint\oop_advemture.dll
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.pdb
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\oop_advemture.genruntimeconfig.cache
+D:\VS code STUFF\c# pactise\cHashtag practise\oop_advemture\obj\Debug\net6.0\ref\oop_advemture.dll

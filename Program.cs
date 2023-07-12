@@ -1,12 +1,14 @@
 ﻿using oopadv;
 
-var language = new English();
+Text.LoadLanguage(new English());
 
-Console.WriteLine(language.Chooseyourname);
+Console.WriteLine(Text.Language.Chooseyourname);
 var name = Console.ReadLine();
 if (name == String.Empty)
 {
-    name = "No name";
+    name = Text.Language.Defaultname;
 }
 var player = new Player(name);
-Console.WriteLine("welcome {0} to your oop adventure", player.Name);
+Console.WriteLine(Text.Language.Welcome, player.Name);
+
+var house = new House(player);

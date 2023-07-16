@@ -13,5 +13,8 @@ public class English : Language
         GoError = "cant go that way";
         Whattodo = "what u want to do";
         Quit = "quit";
+        Roomnew = "YOu entered {0}";
+        Roomold = "You return to {0}";
+        And = "and";
             }
 }

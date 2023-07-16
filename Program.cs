@@ -12,7 +12,9 @@ var player = new Player(name);
 Console.WriteLine(Text.Language.Welcome, player.Name);
 
 var house = new House(player);
+house.Createroom(3, 3);
 Actions.Instance.Register(new Go(house));
+house.Gotostartingroom();
 var run = true;
 Room lastroom  = null;
 while (run)

@@ -1,6 +1,6 @@
 ﻿namespace oopadv;
 
-public abstract class Language
+public abstract partial class Language
 {
     public string Welcome { get; protected set; } = " ";
     public string Chooseyourname { get; protected set; } = " ";
@@ -15,4 +15,7 @@ public abstract class Language
     public string Roomnew { get; protected set; } = "";
     public string Roomold { get; protected set; } = "";
     public string And { get; protected set; } = "";
+    public string Comma { get; protected set; } = "";
+    public string Space { get; protected set; } = "";
+    public List<string> Roomdescription { get; protected set; }
 }

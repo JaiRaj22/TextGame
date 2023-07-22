@@ -28,5 +28,6 @@ public class English : Language
             "scary",
             "strange"
         };
+        Noitem = "you dont have {0}.";
             }
 }

@@ -14,7 +14,9 @@ Console.WriteLine(Text.Language.Welcome, player.Name);
 var house = new House(player);
 house.Createroom(3, 3);
 house.DecorateRoom();
+
 Actions.Instance.Register(new Go(house));
+Actions.Instance.Register(new Backpack(player));
 house.Gotostartingroom();
 var run = true;
 Room lastroom  = null;

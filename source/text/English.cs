@@ -29,5 +29,13 @@ public class English : Language
             "strange"
         };
         Noitem = "you dont have {0}.";
+        Backpack = "Backpack";
+        BackpackError = "no items in backpack";
+        BackpackDesc = "Your backpack contains: {0}";
+        Chest = "chest";
+        Unlockchest = "you have unlocked the chest";
+        key = "key";
+        Chestempty = "chest is empty";
+        Chestfound = "you found: {0}";
             }
 }

@@ -19,4 +19,12 @@ public abstract partial class Language
     public string Space { get; protected set; } = "";
     public List<string> Roomdescription { get; protected set; }
     public string Noitem { get; protected set; } = "";
+    public string Backpack { get; protected set; } = "";
+    public string BackpackError { get; protected set; } = "";
+    public string BackpackDesc { get; protected set; } = "";
+    public string Chest { get; protected set; } = "";
+    public string Unlockchest { get; protected set; } = "";
+    public string key { get; protected set; } = "";
+    public string Chestempty { get; protected set; } = "";
+    public string Chestfound { get; protected set; } = "";
 }
